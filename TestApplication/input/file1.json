@@ -1,0 +1,41 @@
+[
+    {
+        "name":"Jeff",
+        "salary": 10000.00
+    },
+    {
+        "name":"Sam",
+        "salary": 6000.00,
+        "manager": "Jeff"
+    },
+    {
+        "name":"Dave",
+        "salary": 6000.00,
+        "manager": "Jeff"
+    },
+    {
+        "name":"Andy",
+        "salary": 5000.00,
+        "manager": "Dave"
+    },    
+    {
+        "name":"Dan",
+        "salary": 5000.00,
+        "manager": "Dave"
+    },
+    {
+        "name":"Jason",
+        "salary": 5000.00,
+        "manager": "Dave"
+    },
+    {
+        "name":"Rick",
+        "salary": 5000.00,
+        "manager": "Dave"
+    },
+    {
+        "name":"Suzanne",
+        "salary": 5000.00,
+        "manager": "Dave"
+    }
+]

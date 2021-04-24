@@ -1,0 +1,20 @@
+[
+    {
+        "name":"Jeff",
+        "salary": 10000.00
+    },
+    {
+        "name":"Sam",
+        "salary": 10000.00,
+        "manager": "Jeff"
+    },
+    {
+        "name":"Josh",
+        "salary": 10000.00
+    },
+    {
+        "name":"Andy",
+        "salary": 10000.00,
+        "manager": "Josh"
+    }
+]
